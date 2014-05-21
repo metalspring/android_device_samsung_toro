@@ -41,6 +41,7 @@ PRODUCT_NAME := omni_toro
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_MANUFACTURER := samsung
+PRODUCT_RESTRICT_VENDOR_FILES := false
 
 #Set build fingerprint / ID / Product Name ect.
 PRODUCT_BUILD_PROP_OVERRIDES += \
